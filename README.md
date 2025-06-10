@@ -12,6 +12,3 @@ The goal of this project is to practice building semantic HTML and CSS layouts w
 - **HTML5**
 - **CSS3**
 - **Responsive Design (Flexbox)**
-
-## 📁 File Structure
-
